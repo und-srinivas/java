@@ -1,0 +1,2 @@
+It copies local to remote(Push)
+:q

@@ -1,0 +1,2 @@
+it copies remote to local (Pull)
+$
